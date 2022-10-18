@@ -35,7 +35,7 @@ body{
 
 #twtr{
     position:relative;
-    background:url(./Images/twtr-icon.png);
+    background:url(public/Images/twtr-icon.png);
     background-repeat: no-repeat;
     background-size: 100%;
     height:100px;
